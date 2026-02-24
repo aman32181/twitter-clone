@@ -1,0 +1,38 @@
+type User @table {
+  googleId: String!
+  username: String!
+  createdAt: Timestamp!
+  avatarUrl: String
+  bio: String
+}
+
+type Chirp @table {
+  user: User!
+  content: String!
+  createdAt: Timestamp!
+  imageUrl: String
+}
+
+type Like @table(key: ["user", "chirp"]) {
+  user: User!
+  chirp: Chirp!
+  createdAt: Timestamp!
+}
+
+type Comment @table {
+  user: User!
+  chirp: Chirp!
+  content: String!
+  createdAt: Timestamp!
+}
+
+type Follow @table(key: ["follower", "followee"]) {
+  follower: User!
+  followee: User!
+  createdAt: Timestamp!
+}
+
+type Hashtag @table {
+  name: String!
+  lastUsedAt: Timestamp
+}

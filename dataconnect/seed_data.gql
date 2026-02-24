@@ -1,0 +1,72 @@
+mutation CreateDemoData @transaction @auth(level: USER, insecureReason: "This operation is for seeding data and should only be run by authenticated users.") {
+  user_insertMany(data: [
+  {
+    id: "550e8400-e29b-41d4-a716-446655440000"
+    username: "firebaseuser1"
+    googleId: "googleid1"
+    bio: "A Firebase enthusiast."
+    createdAt: "2023-01-01T12:00:00Z"
+  },
+  {
+    id: "550e8400-e29b-41d4-a716-446655440001"
+    username: "firebaseuser2"
+    googleId: "googleid2"
+    bio: null
+    createdAt: "2023-01-02T13:00:00Z"
+  }
+])
+  chirp_insertMany(data: [
+  {
+    id: "550e8400-e29b-41d4-a716-446655440002"
+    userId: "550e8400-e29b-41d4-a716-446655440000"
+    content: "Hello from Firebase Data Connect!"
+    createdAt: "2023-01-01T12:30:00Z"
+  },
+  {
+    id: "550e8400-e29b-41d4-a716-446655440003"
+    userId: "550e8400-e29b-41d4-a716-446655440001"
+    content: "Enjoying the power of FDC!"
+    createdAt: "2023-01-02T13:15:00Z"
+  }
+])
+  comment_insertMany(data: [
+    {
+      id: "550e8400-e29b-41d4-a716-446655440004",
+      chirpId: "550e8400-e29b-41d4-a716-446655440002",
+      userId: "550e8400-e29b-41d4-a716-446655440001",
+      content: "Great chirp!",
+      createdAt: "2023-01-01T12:45:00Z"
+    }
+  ])
+  like_insertMany(data: [
+    {
+      userId: "550e8400-e29b-41d4-a716-446655440001",
+      chirpId: "550e8400-e29b-41d4-a716-446655440002",
+      createdAt: "2023-01-01T12:50:00Z"
+    },
+    {
+      userId: "550e8400-e29b-41d4-a716-446655440000",
+      chirpId: "550e8400-e29b-41d4-a716-446655440003",
+      createdAt: "2023-01-02T13:20:00Z"
+    }
+  ])
+  follow_insertMany(data: [
+    {
+      followerId: "550e8400-e29b-41d4-a716-446655440000",
+      followeeId: "550e8400-e29b-41d4-a716-446655440001",
+      createdAt: "2023-01-01T14:00:00Z"
+    }
+  ])
+  hashtag_insertMany(data: [
+    {
+      id: "550e8400-e29b-41d4-a716-446655440005",
+      name: "Firebase",
+      lastUsedAt: "2023-01-02T15:00:00Z"
+    },
+    {
+      id: "550e8400-e29b-41d4-a716-446655440006",
+      name: "DataConnect",
+      lastUsedAt: "2023-01-02T16:00:00Z"
+    }
+  ])
+}

@@ -1,0 +1,32 @@
+query GetMyProfile @auth(level: USER, insecureReason: "This operation is safe to expose to all logged in users.") {
+  users(where: { uid: { eq_expr: "auth.uid" } }) {
+    uid
+    username
+    email
+    createdAt
+    avatarUrl
+    bio
+  }
+}
+
+mutation UpdateMyBio($bio: String!) @auth(level: USER) {
+  user_update(key: { uid: { eq_expr: "auth.uid" } }, data: { bio: $bio })
+}
+
+query GetPublicUserProfiles @auth(level: PUBLIC, insecureReason: "This operation is safe to expose to the public") {
+  users {
+    uid
+    username
+    avatarUrl
+    bio
+  }
+}
+
+mutation CreateUser($username: String!, $email: String!, $createdAt: Timestamp!) @auth(level: USER, insecureReason: "This operation is safe to expose to all logged in users.") {
+  user_insert(data: {
+    uid_expr: "auth.uid",
+    username: $username,
+    email: $email,
+    createdAt: $createdAt
+  })
+}
