@@ -72,3 +72,790 @@ Dev App Server is now running.
 
 Issues? Report them at https://github.com/firebase/firebase-tools/issues and attach the *-debug.log files.
  
+[debug] [2026-02-25T01:11:14.658Z] Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:14.862Z] Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:14.868Z] Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:14.870Z] Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:14.887Z] Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\nFeb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\nFeb 25, 2026 6:41:14 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:14.889Z] Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:14 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:19.928Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:19.933Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:19.934Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:19.936Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:19.941Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:19.943Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:19.947Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:19.949Z] Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:19 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:24.990Z] Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:24.992Z] Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:24.996Z] Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:24.998Z] Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:24 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:25.004Z] Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:25.007Z] Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:25.010Z] Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:25.011Z] Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:25 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:30.089Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:30.093Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:30.099Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:30.100Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:30.104Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:30.105Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:30.111Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:30.114Z] Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:30 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:35.169Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:35.171Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:35.175Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:35.176Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:35.181Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:35.182Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:35.186Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:35.187Z] Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:35 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:40.198Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:40.201Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:40.209Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:40.210Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:40.217Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:40.220Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:40.225Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:40.226Z] Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:40 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:45.474Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:45.476Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:45.481Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:45.483Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:45.489Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:45.491Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:45.494Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:45.495Z] Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:45 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:50.739Z] Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:50.742Z] Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:50.746Z] Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:50.903Z] Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\nFeb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\nFeb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\nFeb 25, 2026 6:41:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\nFeb 25, 2026 6:41:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:55.906Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:55.907Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:11:55.909Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:55.910Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:11:55.914Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:55.914Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:11:55.918Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:11:55.918Z] Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:41:55 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:00.963Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:00.973Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:00.976Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:00.977Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:00.979Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:00.980Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:00.982Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:00.983Z] Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:00 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:05.992Z] Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:05.993Z] Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:05.996Z] Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:05.996Z] Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:05.998Z] Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:05.999Z] Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:05 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:06.002Z] Feb 25, 2026 6:42:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:06.004Z] Feb 25, 2026 6:42:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:11.075Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:11.076Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:11.078Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:11.079Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:11.081Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:11.081Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:11.085Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:11.086Z] Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:16.093Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:16.094Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:16.096Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:16.098Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:16.100Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:16.100Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:16.102Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:16.103Z] Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:21.143Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:21.144Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:21.146Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:21.147Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:21.149Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:21.150Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:21.152Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:21.153Z] Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:26.241Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:26.242Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:26.244Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:26.245Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:26.247Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:26.248Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:26.250Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:26.251Z] Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:31.315Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:31.316Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:31.318Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:31.319Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:31.326Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:31.327Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:31.330Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:31.331Z] Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:31 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:36.340Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:36.340Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:36.342Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:36.343Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:36.345Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:36.346Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:36.348Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:36.349Z] Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:36 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:41.396Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:41.397Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:41.399Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:41.399Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:41.401Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:41.402Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:41.405Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:41.406Z] Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:41 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:46.485Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:46.486Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:46.488Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:46.489Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:46.491Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:46.493Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:46.494Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:46.495Z] Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:46 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:51.503Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:51.504Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:51.507Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:51.508Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:51.510Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:51.511Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:51.514Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:51.515Z] Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:51 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:56.560Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:56.561Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:12:56.564Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:56.564Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:12:56.567Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:56.567Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:12:56.570Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:12:56.571Z] Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:42:56 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:01.682Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:01.682Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:01.685Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:01.686Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:01.688Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:01.688Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:01.691Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:01.692Z] Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:01 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:06.732Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:06.732Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:06.735Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:06.735Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:06.738Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:06.738Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:06.741Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:06.741Z] Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:06 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:11.749Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:11.750Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:11.752Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:11.752Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:11.754Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:11.755Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:11.756Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:11.757Z] Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:11 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:16.828Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:16.829Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:16.830Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:16.831Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:16.834Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:16.834Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:16.837Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:16.837Z] Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:16 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:21.876Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:21.877Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:21.881Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:21.881Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:21.884Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:21.885Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:21.887Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:21.888Z] Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:21 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:26.904Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:26.905Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:26.908Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:26.909Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:26.913Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:26.914Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:26.921Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:26.922Z] Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:26 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:32.066Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:32.066Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:32.069Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:32.070Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:32.072Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:32.072Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:32.074Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:32.075Z] Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:32 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:37.304Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:37.305Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:37.307Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:37.308Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:37.310Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:37.311Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:37.313Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:37.314Z] Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:37 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:50.391Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:50.392Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:13:50.395Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:50.396Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:13:50.399Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:50.400Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:13:50.403Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:13:50.404Z] Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:43:50 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:14:03.465Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:03.466Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:14:03.469Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:03.470Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:14:03.473Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:03.474Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:14:03.477Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:03.479Z] Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:03 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:14:08.548Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:08.549Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:14:08.553Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:08.554Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:14:08.557Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:08.558Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:14:08.562Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:08.564Z] Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:08 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:14:18.874Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:18.876Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /api/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /api/inngest\r\n"}}
+[debug] [2026-02-25T01:14:18.879Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:18.879Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /x/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /x/inngest\r\n"}}
+[debug] [2026-02-25T01:14:18.883Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:18.884Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.netlify/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.netlify/functions/inngest\r\n"}}
+[debug] [2026-02-25T01:14:18.888Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\r\nINFO: Detected non-HTTP/2 connection.\r\n"}}
+[debug] [2026-02-25T01:14:18.889Z] Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest
+INFO: Unknown request URI: /.redwood/functions/inngest
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Feb 25, 2026 6:44:18 AM io.gapi.emulators.netty.NotFoundHandler handleRequest\r\nINFO: Unknown request URI: /.redwood/functions/inngest\r\n"}}
+[debug] [2026-02-25T12:03:25.890Z] Received signal SIGHUP 1
